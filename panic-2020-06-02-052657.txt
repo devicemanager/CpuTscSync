@@ -53,12 +53,12 @@ com.gmathews.volta.driver	1
 com.intel.driver.EnergyDriver	3.7.0
 com.radiosilenceapp.nke.filter	2.2
 com.paragon-software.kext.VDMounter	1370.2
-as.acidanthera.voodoo.driver.PS2Keyboard	2.1.5
-as.acidanthera.BrcmPatchRAM3	2.5.3
+as.devicemanager.voodoo.driver.PS2Keyboard	2.1.5
+as.devicemanager.BrcmPatchRAM3	2.5.3
 me.kishorprins.VoodooInput	1.0.6
 com.alexandred.VoodooI2CHID	1
 com.alexandred.VoodooI2C	2.4.2
-as.acidanthera.voodoo.driver.PS2Controller	2.1.5
+as.devicemanager.voodoo.driver.PS2Controller	2.1.5
 org.rehabman.driver.NullEthernet	1.0.6
 org.coolstar.VoodooGPIO	1.1
 org.rehabman.driver.VoodooTSCSync	1.5.0
@@ -69,8 +69,8 @@ ru.usrsse2.SMCLightSensor	1
 ru.usrsse2.SMCBatteryManager	1
 as.vit9696.VirtualSMC	1.1.4
 xyz.racermaster.NoTouchID	1.0.3
-org.acidanthera.NVMeFix	1.0.2
-as.acidanthera.BrcmFirmwareStore	2.5.3
+org.devicemanager.NVMeFix	1.0.2
+as.devicemanager.BrcmFirmwareStore	2.5.3
 as.lvs1974.HibernationFixup	1.3.3
 as.lvs1974.AirportBrcmFixup	2.0.7
 com.alexandred.VoodooI2CServices	1
